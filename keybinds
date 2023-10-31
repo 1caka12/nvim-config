@@ -1,0 +1,9 @@
+NVIM
+<space> ff - telescope search
+<space> CTR-p - telescope git search
+
+
+VIM 
+<shift-d> delete file
+% - new file
+d - new directory
